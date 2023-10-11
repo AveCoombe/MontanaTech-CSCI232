@@ -2,11 +2,11 @@
 In this lab, you will become familiar with GitHub as well as the importance of it.
 
 ## Submission Information
-**Name:** Avrey Coombe
-**Course:** CSCI 232, Sec 01, Data Structures and Algorithms
-**Due:** TBA
-**GitHub:** [view the rest of my GitHub here](https://github.com/AveCoombe)
-**Favorites:** My favorite movies are:
+-**Name:** Avrey Coombe
+-**Course:** CSCI 232, Sec 01, Data Structures and Algorithms
+-**Due:** TBA
+-**GitHub:** [view the rest of my GitHub here](https://github.com/AveCoombe)
+-**Favorites:** My favorite movies are:
 1. The Batman
 2. Superman (1978)
 3. Indiana Jones: Raiders of the Lost Ark
